@@ -128,12 +128,6 @@
         "value": "",
         "required": false
       },      
-      "SUDO_USERS": {
-            "description": "Sudo users id space by space or leave blank",
-            "value": "",
-            "required": false
-        },
-
       "CLIENT21": {
         "description": "Pyrogram String Session Or Bot Token",
         "value": "",
@@ -312,6 +306,12 @@
         "value": "",
         "required": false
       },
+      "SUDO_USERS": {
+            "description": "Sudo users id space by space or leave blank",
+            "value": "",
+            "required": false
+        },
+
       "OWNER_ID": {
             "description": "Sudo users id space by space",
             "value": "",
