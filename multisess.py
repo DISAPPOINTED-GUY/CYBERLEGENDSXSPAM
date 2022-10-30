@@ -10,7 +10,7 @@ try:
      number_to_add = int(input(" \n Enter number of accounts you want to generate string:"))
      whom = input(" \n Enter Your Username or User id so, Client can forward all sessions to you else press enter: ")
      for i in range(number_to_add):
-            RiZoeL = Client(name="RiZoeL", api_id=ID, api_hash=HASH, in_memory=True)
+            RiZoeL = Client(name="Rishisup3ryo", api_id=ID, api_hash=HASH, in_memory=True)
             RiZoeL.start()
             s = RiZoeL.export_session_string()
             sess = str(s)
