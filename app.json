@@ -133,6 +133,185 @@
             "value": "",
             "required": false
         },
+
+      "CLIENT21": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT22": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT23": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT24": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT25": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT26": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT27": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT28": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT29": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT30": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT31": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT32": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT33": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT34": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT35": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT36": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT37": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT38": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT39": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT40": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT41": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT42": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+      "CLIENT43": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT44": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT45": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT46": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT47": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT48": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT49": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
+
+      "CLIENT50": {
+        "description": "Pyrogram String Session Or Bot Token",
+        "value": "",
+        "required": false
+      },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
             "value": "",
